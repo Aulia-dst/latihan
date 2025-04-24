@@ -8,5 +8,15 @@
     <body>
         <h1>LATIHAN DASAR</h1>
         <p>REPOSITORY GITHUB</p>
+        <table>
+            <tr>
+                <td>REGISTRASI</td>    
+            </tr>
+            <tr>
+                <td>Nama</td>
+                <td>:</td>
+                <td></td>
+            </tr>
+        </table>
     </body>    
 </html>
